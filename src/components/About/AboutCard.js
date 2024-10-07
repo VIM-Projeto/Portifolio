@@ -54,6 +54,12 @@ function AboutCard() {
             <li>
               Thiago <a href="https://github.com/thvct" style={{ color: "white" }}target="_blank" rel="noopener noreferrer"><AiFillGithub /></a>
             </li>
+            <li>
+              Mendes <a href="https://github.com/cmendes7" style={{ color: "white" }}target="_blank" rel="noopener noreferrer"><AiFillGithub /></a>
+            </li>
+            <li>
+              João <a href="https://github.com/joaosnm" style={{ color: "white" }}target="_blank" rel="noopener noreferrer"><AiFillGithub /></a>
+            </li>
           </ul>
         </blockquote>
       </Card.Body>
